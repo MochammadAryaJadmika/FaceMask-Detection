@@ -7,3 +7,4 @@
 4. Atau dapat juga melakukan run pada setiap cell atau baris yang ada agar dapat lebih memperhatikan prosesnya
 
 ## Link Youtube
+https://youtu.be/aZfM-mJUugg?si=LZxssHlWVgtcPIXb
