@@ -1,4 +1,4 @@
-# FaceMask-Detection Using MobileNetV2
+# FaceMask-Detection Menggunakan Metode CNN Dengan Arsitektur MobileNetV2 Dengan Model Pendeteksi Wajah Caffe Model ResNet-10
 
 ## Cara Penggunaan
 1. Masuk ke Google Colab dengan akun Google
