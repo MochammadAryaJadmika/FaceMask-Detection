@@ -1,6 +1,6 @@
-## FaceMask-Detection Using MobileNetV2
+# FaceMask-Detection Using MobileNetV2
 
-# Cara Penggunaan
+## Cara Penggunaan
 1. Masuk ke Google Colab dengan akun Google
 2. Klik menu "Runtime" kemudian pilih "Run All" atau tekan Ctrl+F9 pada keyboard
 3. Tunggu prosesnya hingga selesai
